@@ -1,7 +1,7 @@
 package com.devstudios.microservicio.examenes.services;
 
-import com.devstudios.microservicio.examenes.models.entities.Examen;
 import com.devstudios.microservicios.app.commons.services.CommonService;
+import com.devstudios.microservicios.commons.examenes.entities.Examen;
 
 
 

@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devstudios.microservicio.examenes.models.entities.Examen;
-import com.devstudios.microservicio.examenes.models.entities.Pregunta;
 import com.devstudios.microservicio.examenes.services.ExamenService;
 import com.devstudios.microservicios.app.commons.controllers.CommonController;
+import com.devstudios.microservicios.commons.examenes.entities.Examen;
+import com.devstudios.microservicios.commons.examenes.entities.Pregunta;
 
 
 
